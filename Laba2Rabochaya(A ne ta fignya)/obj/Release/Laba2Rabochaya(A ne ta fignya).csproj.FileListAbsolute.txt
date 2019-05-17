@@ -1,0 +1,16 @@
+C:\Users\Михаил\source\repos\Laba2Rabochaya(A ne ta fignya)\Laba2Rabochaya(A ne ta fignya)\bin\Release\Laba2Rabochaya(A ne ta fignya).exe.config
+C:\Users\Михаил\source\repos\Laba2Rabochaya(A ne ta fignya)\Laba2Rabochaya(A ne ta fignya)\bin\Release\Laba2Rabochaya(A ne ta fignya).exe
+C:\Users\Михаил\source\repos\Laba2Rabochaya(A ne ta fignya)\Laba2Rabochaya(A ne ta fignya)\bin\Release\Laba2Rabochaya(A ne ta fignya).pdb
+C:\Users\Михаил\source\repos\Laba2Rabochaya(A ne ta fignya)\Laba2Rabochaya(A ne ta fignya)\bin\Release\Lab2Library.dll
+C:\Users\Михаил\source\repos\Laba2Rabochaya(A ne ta fignya)\Laba2Rabochaya(A ne ta fignya)\bin\Release\SourceAFIS.dll
+C:\Users\Михаил\source\repos\Laba2Rabochaya(A ne ta fignya)\Laba2Rabochaya(A ne ta fignya)\bin\Release\Lab2Library.pdb
+C:\Users\Михаил\source\repos\Laba2Rabochaya(A ne ta fignya)\Laba2Rabochaya(A ne ta fignya)\bin\Release\SourceAFIS.xml
+C:\Users\Михаил\source\repos\Laba2Rabochaya(A ne ta fignya)\Laba2Rabochaya(A ne ta fignya)\obj\Release\Laba2Rabochaya(A ne ta fignya).csprojAssemblyReference.cache
+C:\Users\Михаил\source\repos\Laba2Rabochaya(A ne ta fignya)\Laba2Rabochaya(A ne ta fignya)\obj\Release\Laba2Rabochaya_A_ne_ta_fignya_.Form1.resources
+C:\Users\Михаил\source\repos\Laba2Rabochaya(A ne ta fignya)\Laba2Rabochaya(A ne ta fignya)\obj\Release\Laba2Rabochaya_A_ne_ta_fignya_.Form2.resources
+C:\Users\Михаил\source\repos\Laba2Rabochaya(A ne ta fignya)\Laba2Rabochaya(A ne ta fignya)\obj\Release\Laba2Rabochaya_A_ne_ta_fignya_.Properties.Resources.resources
+C:\Users\Михаил\source\repos\Laba2Rabochaya(A ne ta fignya)\Laba2Rabochaya(A ne ta fignya)\obj\Release\Laba2Rabochaya(A ne ta fignya).csproj.GenerateResource.cache
+C:\Users\Михаил\source\repos\Laba2Rabochaya(A ne ta fignya)\Laba2Rabochaya(A ne ta fignya)\obj\Release\Laba2Rabochaya(A ne ta fignya).csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\Laba2Rabochaya(A ne ta fignya)\Laba2Rabochaya(A ne ta fignya)\obj\Release\Laba2Rabochaya(A ne ta fignya).csproj.CopyComplete
+C:\Users\Михаил\source\repos\Laba2Rabochaya(A ne ta fignya)\Laba2Rabochaya(A ne ta fignya)\obj\Release\Laba2Rabochaya(A ne ta fignya).exe
+C:\Users\Михаил\source\repos\Laba2Rabochaya(A ne ta fignya)\Laba2Rabochaya(A ne ta fignya)\obj\Release\Laba2Rabochaya(A ne ta fignya).pdb
